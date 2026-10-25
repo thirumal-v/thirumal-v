@@ -1,6 +1,6 @@
 # Hi, I'm Thirumal V 👋
 
-### Aspiring Data Scientist | AI & Data Science Student
+### Aspiring Data Scientist | AI & ML
 
 I'm passionate about Data Science, Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
 
