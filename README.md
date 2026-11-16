@@ -31,7 +31,6 @@ To develop practical AI and Data Science solutions that solve real-world problem
 
 📫 **Connect With Me**
 
-* GitHub: You're already here!
 * Kaggle: https://www.kaggle.com/thirumal0430.
 * LinkedIn: https://www.linkedin.com/in/thirumal-v30/.
 
